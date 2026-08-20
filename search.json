@@ -4,7 +4,35 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This website is going to hold academic and professional content so that I can highlight things not included in my publications\n\n\n\nIEEE TMI\n\n\n\n\n\\[\n\\nabla \\cdot (\\mathbf{w} \\, p) = \\ldots\n\\]\n\n\n\ndef main() -&gt; None:\n    x = 3\n    print(x)\n\n\n\nfunction main()\n    x = 3;\n    disp(x);\nend\nI hate matlab so if this doesn’t work, who cares! :D"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "",
+    "text": "IEEE TMI"
+  },
+  {
+    "objectID": "about.html#math",
+    "href": "about.html#math",
+    "title": "About",
+    "section": "",
+    "text": "\\[\n\\nabla \\cdot (\\mathbf{w} \\, p) = \\ldots\n\\]"
+  },
+  {
+    "objectID": "about.html#python",
+    "href": "about.html#python",
+    "title": "About",
+    "section": "",
+    "text": "def main() -&gt; None:\n    x = 3\n    print(x)"
+  },
+  {
+    "objectID": "about.html#matlab",
+    "href": "about.html#matlab",
+    "title": "About",
+    "section": "",
+    "text": "function main()\n    x = 3;\n    disp(x);\nend\nI hate matlab so if this doesn’t work, who cares! :D"
   },
   {
     "objectID": "index.html",
