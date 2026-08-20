@@ -2,4 +2,35 @@
 title: "About"
 ---
 
-About this site
+# Practicing typesetting and theming
+
+This website is going to hold academic and professional content so that I can highlight things not included in my publications
+
+## Publications
+
+- IEEE TMI
+
+## Math
+
+$$
+\nabla \cdot (\mathbf{w} \, p) = \ldots
+$$
+
+## Python
+
+```Python
+def main() -> None:
+    x = 3
+    print(x)
+```
+
+## MATLAB
+
+```Matlab
+function main()
+    x = 3;
+    disp(x);
+end
+```
+I hate matlab so if this doesn't work, who cares! :D
+
