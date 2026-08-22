@@ -1,0 +1,22 @@
+---
+title: "Publications"
+---
+
+A listing of publications, including peer-reviewed journal articles and accepted conference abstracts. I will also list poster presentations given at local conferences/symposia. Given time I will add details and links to public code.
+
+## Papers
+
+### First Author
+
+- Comprehensive Analysis of Relative Pressure Estimation in Type B Aortic Dissection Utilizing 4D-Flow MRI. *Brandon Hardy*, Judith Zimmermann, Vincent Lechner, Mia Bonini, Julio A. Sotelo, Nicholas S. Burris, Daniel B. Ennis, David Marlevi, and David A. Nordsletten. IEEE Transactions on Medical Imaging, 2026. [PDF](https://arxiv.org/abs/2503.02847)
+
+### Co-Author
+
+- Bonini, FSI
+- Leon, Super Resolution
+
+## Conference Abstracts
+
+- ISMRM 2023
+- SCMR 2023
+- SCMR 2024
