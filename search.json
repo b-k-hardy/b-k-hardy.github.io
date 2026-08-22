@@ -4,35 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This website is going to hold academic and professional content so that I can highlight things not included in my publications\n\n\n\nIEEE TMI\n\n\n\n\n\\[\n\\nabla \\cdot (\\mathbf{w} \\, p) = \\ldots\n\\]\n\n\n\ndef main() -&gt; None:\n    x = 3\n    print(x)\n\n\n\nfunction main()\n    x = 3;\n    disp(x);\nend\nI hate matlab so if this doesn’t work, who cares! :D"
-  },
-  {
-    "objectID": "about.html#publications",
-    "href": "about.html#publications",
-    "title": "About",
-    "section": "",
-    "text": "IEEE TMI"
-  },
-  {
-    "objectID": "about.html#math",
-    "href": "about.html#math",
-    "title": "About",
-    "section": "",
-    "text": "\\[\n\\nabla \\cdot (\\mathbf{w} \\, p) = \\ldots\n\\]"
-  },
-  {
-    "objectID": "about.html#python",
-    "href": "about.html#python",
-    "title": "About",
-    "section": "",
-    "text": "def main() -&gt; None:\n    x = 3\n    print(x)"
-  },
-  {
-    "objectID": "about.html#matlab",
-    "href": "about.html#matlab",
-    "title": "About",
-    "section": "",
-    "text": "function main()\n    x = 3;\n    disp(x);\nend\nI hate matlab so if this doesn’t work, who cares! :D"
+    "text": "My name is Brandon Hardy. I am a PhD student in Biomedical Engineering and Scientific Computing at the University of Michigan."
   },
   {
     "objectID": "index.html",
@@ -40,5 +12,33 @@
     "title": "Brandon Hardy",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "GSI position and writing on code setup."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A listing of publications, including peer-reviewed journal articles and accepted conference abstracts. I will also list poster presentations given at local conferences/symposia. Given time I will add details and links to public code."
+  },
+  {
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
+    "title": "Publications",
+    "section": "Papers",
+    "text": "Papers\n\nFirst Author\n\nComprehensive Analysis of Relative Pressure Estimation in Type B Aortic Dissection Utilizing 4D-Flow MRI. Brandon Hardy, Judith Zimmermann, Vincent Lechner, Mia Bonini, Julio A. Sotelo, Nicholas S. Burris, Daniel B. Ennis, David Marlevi, and David A. Nordsletten. IEEE Transactions on Medical Imaging, 2026. PDF\n\n\n\nCo-Author\n\nBonini, FSI\nLeon, Super Resolution"
+  },
+  {
+    "objectID": "publications.html#conference-abstracts",
+    "href": "publications.html#conference-abstracts",
+    "title": "Publications",
+    "section": "Conference Abstracts",
+    "text": "Conference Abstracts\n\nISMRM 2023\nSCMR 2023\nSCMR 2024"
   }
 ]
