@@ -10,6 +10,7 @@ website:
       - about.qmd
       - publications.qmd
       - teaching.qmd
+      - FAI.qmd
 
 format:
   html:
